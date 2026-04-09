@@ -48,3 +48,15 @@ Sistem aşağıdaki işlevleri yerine getirir:
 
 ## Amaç
 Bu proje, gömülü sistemlerde GPIO, interrupt, PWM, timer ve UART kullanımını gerçek bir uygulama üzerinden göstermek amacıyla geliştirilmiştir.
+##  Future Improvements
+- LCD display for vehicle count
+- Mobile app integration
+- RFID card access system
+- IoT monitoring via WiFi
+
+##  Skills Demonstrated
+- Embedded C (STM32 HAL)
+- GPIO & EXTI Interrupts
+- PWM (Servo Control)
+- Timer-based scheduling
+- UART Communication
