@@ -1,4 +1,7 @@
 # STM32 Smart Parking Barrier Control System
+<p align="center">
+  <img src="yavru.png" width="500"/>
+</p>
 
 ## Proje Tanımı
 Bu proje, STM32F072 mikrodenetleyici kullanılarak geliştirilmiş akıllı park bariyeri kontrol sistemidir.
